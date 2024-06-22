@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: #f90a0a;
+    font-size: 50px;
+    font-weight: 900;
+}
+h2{
+    font-size: 40px;
+    color: #3300fe;
+}
